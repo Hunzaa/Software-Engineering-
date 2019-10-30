@@ -8,7 +8,7 @@ namespace librarySystem
 {
     class DBConnect
     {
-        public const string oradb ="Data Source = oracle/orcl; User Id = t00203592; Password = 64fje6jy;";
+        public const string oradb ="Data Source = oracle/orcl; User Id = ; Password = ;";
 
     }
 }
